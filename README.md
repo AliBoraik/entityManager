@@ -1,5 +1,5 @@
 # EntityManager
-create own EntityManager
+Create own EntityManager
 
 # What is EntityManager ?
 
