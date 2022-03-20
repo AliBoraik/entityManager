@@ -1,7 +1,7 @@
 # EntityManager
 create own EntityManager
 
-# what is EntityManager ?
+# What is EntityManager ?
 
 Interface used to interact with the persistence context.
 The EntityManager API is used to create and remove persistent entity instances, to find entities by their primary key, and to query over entities.
