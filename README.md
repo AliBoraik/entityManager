@@ -1,6 +1,6 @@
 # EntityManager
 
-Create own EntityManager
+Create own EntityManager in SPRING boot.
 
 # What is EntityManager ?
 
